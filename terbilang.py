@@ -1,6 +1,5 @@
 import re
 import sys
-import pyttsx3
 import random
 
 def terbilang( val):
